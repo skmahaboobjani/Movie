@@ -13,7 +13,7 @@ function Movie(props) {
                 <p>{props.year}</p>
                 <button>{props.time}</button>
                 <p id='m'>{props.about}</p>
-                <img id='rat' src={props.rating} alt='rate' />
+              
                 <p id='num'>{props.num}</p>
                 <div className='mab'>
 

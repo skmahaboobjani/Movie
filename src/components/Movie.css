@@ -1,40 +1,41 @@
-.card{
-background-color: black;
+.card {
+    background-color: black;
     width: 520px;
-    border:  rgb(22, 20, 20);
+    border: rgb(22, 20, 20);
     box-shadow: 2px 2px 15px black;
     padding: 50px;
     margin: 15px;
     height: 300px;
     position: relative;
     right: 65px;
-    bottom:0px
-
-    
+    bottom: 0px
 }
-.main{
+
+.main {
     margin: auto;
     width: 50%;
-   
+
     padding: 10px;
-  
+
 }
-#mabu{
+
+#mabu {
     bottom: 50px;
     right: 250px;
     position: relative;
     height: 110px;
-    width:100px
-    
+    width: 100px
 }
+
 h4 {
     position: relative;
     right: 140px;
     bottom: 150px;
-  font-style: inherit;
-  color: white;
- 
+    font-style: inherit;
+    color: white;
+
 }
+
 p {
     position: relative;
     right: 140px;
@@ -43,17 +44,19 @@ p {
     font-size: 15px;
     color: white;
 }
-button{
+
+button {
     position: relative;
     right: 160px;
     bottom: 180px;
     width: 65px;
     height: 20px;
-   
-    
-   
+
+
+
 }
-#m{
+
+#m {
     position: relative;
     right: 70px;
     bottom: 186px;
@@ -62,16 +65,18 @@ button{
     color: white;
 
 }
-#rat{
+
+#rat {
     position: relative;
     right: 180px;
     bottom: 230px;
-   background-image: none;
-   width: 50px;
-   color: black;
-   height: 30px;
+    background-image: none;
+    width: 50px;
+    color: black;
+    height: 30px;
 }
-#num{
+
+#num {
     position: relative;
     right: 150px;
     bottom: 280px;
@@ -81,33 +86,35 @@ button{
     font-size: 20px;
 
 }
-#des{
+
+#des {
     position: relative;
     left: 10px;
     bottom: 250px;
     font-size: 15px;
 }
-.mab{
+
+.mab {
     width: 300px;
     padding: 50px;
     margin: 15px;
     height: 150px;
     position: relative;
     right: 70px;
-    bottom:50px
+    bottom: 50px
 }
-#full{
-   position: relative;
-   width: 250px;
-   height: 398px;
-   left: 185px;
-   bottom: 700px;
+
+#full {
+    position: relative;
+    width: 250px;
+    height: 398px;
+    left: 185px;
+    bottom: 700px;
 }
-h5{
+
+h5 {
     position: relative;
     left: 10px;
     bottom: 750px;
     font-size: 15px;
 }
-
-
